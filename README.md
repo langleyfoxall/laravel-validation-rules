@@ -15,7 +15,7 @@ composer require langleyfoxall/laravel-validation-rules
 
 > If you wish to make changes to any of the validation rules, submit an issue or pull request so it can be discussed.
 
-#### UK Phone Number
+### UK Phone Number
 Allows validation of all common forms of UK phone numbers including mobile phones and landlines.
 
 
@@ -23,7 +23,7 @@ Allows validation of all common forms of UK phone numbers including mobile phone
 
 **Invalid**: `(+447222)555555` | `+44(7222)555555` | `(0722) 5555555 #22`
 
-#### UK Postcode
+### UK Postcode
 Easy validation of UK postal codes.
 
 > The postal code validation rule only validates if the postcode is in a valid format. It does not check if the 
