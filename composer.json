@@ -17,5 +17,10 @@
     "require": {
         "php": ">=7.1",
         "illuminate/contracts": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "LangleyFoxall\\LaravelValidationRules\\": "src/"
+        }
     }
 }
