@@ -2,6 +2,9 @@
 
 A set of commonly used validation rules, such as UK Postcodes, Phone numbers and more.
 
+[![Latest Stable Version](https://badgen.net/github/release/langleyfoxall/laravel-validation-rules)](https://packagist.org/packages/langleyfoxall/laravel-validation-rules)
+[![Total Downloads](https://badgen.net/packagist/dt/langleyfoxall/laravel-validation-rules)](https://packagist.org/packages/langleyfoxall/laravel-validation-rules)
+
 ## Installation
 
 You can easily install this package by using Composer. Just run the following command from the root of your 
