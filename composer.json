@@ -1,0 +1,17 @@
+{
+    "name": "langleyfoxall/laravel-validation-rules",
+    "description": "A set of commonly used validation rules, such as UK Postcodes, Phone numbers and more.",
+    "type": "library",
+    "license": "LGPL-3.0-only",
+    "authors": [
+        {
+            "name": "Ashley",
+            "email": "ashley@langleyfoxall.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1",
+        "illuminate/contracts": "^5.1"
+    }
+}
