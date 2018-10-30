@@ -41,6 +41,7 @@ class UKPostcode implements Rule
 
         return $result ? true : false;
     }
+
     /**
      * Get the validation error message.
      *
